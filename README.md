@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Danish
-- 👀 In the Multiverse of Gene & Genome
-- 🌱 Passionate about Python programming, linux, R & Perl ...
-- 💞️ exploring the world of bioinformatics @CUSB...
+MSc Bioinformatics | Dissertation Intern at TIGS, Bangalore | NGS • Genome Assembly • AMR Profiling | Python • R • Linux"
 
 
 <!---
